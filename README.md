@@ -7,8 +7,8 @@
 
 - [申请加入](https://doc.wangeditor.com/#%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98) wangEditor 开源团队
 - 对[我的课程](http://www.imooc.com/t/4427201) 感兴趣
-  - 👍 [Web 前端架构师](https://class.imooc.com/sale/fearchitect)
   - 🔥 前端面试系列课程：[基础考点](https://coding.imooc.com/class/400.html) + [框架考点](https://coding.imooc.com/class/419.html)
+  - nodejs 入门实战：[从 0 入门](https://coding.imooc.com/class/320.html) + [复杂项目进阶](https://coding.imooc.com/class/388.html)
 - 翻看[我的博客](https://juejin.cn/user/1714893868765373) ，其中阅读量较多的博客：
   - [《深入理解javascript原型和闭包系列》](https://www.cnblogs.com/wangfupeng1988/p/4001284.html)
   - [《CSS 知多少》](https://www.cnblogs.com/wangfupeng1988/p/4325007.html)
