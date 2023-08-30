@@ -5,7 +5,6 @@
 
 和我相关的：
 
-- [申请加入](https://doc.wangeditor.com/#%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98) wangEditor 开源团队
 - 对[我的课程](http://www.imooc.com/t/4427201) 感兴趣
   - 🔥 前端面试系列课程：[基础考点](https://coding.imooc.com/class/400.html) + [框架考点](https://coding.imooc.com/class/419.html)
   - nodejs 入门实战：[从 0 入门](https://coding.imooc.com/class/320.html) + [复杂项目进阶](https://coding.imooc.com/class/388.html)
