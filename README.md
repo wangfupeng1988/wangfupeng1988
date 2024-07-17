@@ -17,17 +17,17 @@
   - [《换个思路学习 nodejs 系列》](https://github.com/wangfupeng1988/node-tutorial)
   - [Web 前端知识体系思维导图 What is FE](https://github.com/wangfupeng1988/what-is-fe)
 
-Thx.
+谢谢～
 
 ---
 
-Hi there, my name is Wangfupeng. I am a senior front-end developer, PMP, once I worked in [Baidu](https://www.baidu.com/) (Chinese Google) and [Didi](https://www.xiaojukeji.com/) (Chinese Uber), now I'm a freelancer. If you have a job opportunity, [mail me](wangfupeng1988@163.com) please.
+Hi there, my name is Wangfupeng. I am a senior front-end developer, PMP, once I worked in [Baidu](https://www.baidu.com/) (Chinese Google) and [Didi](https://www.xiaojukeji.com/) (Chinese Uber), now I'm a freelancer. If you have a job opportunity, [mail me](mailto:wangfupeng1988@163.com).
 
-I'm the author of a opensource rich text editor [wangEditor](https://www.wangeditor.com/) which is famous in Chinese front-end community. [GitHub repo](https://github.com/wangeditor-team/wangEditor) got more 17k+ stars.
+I'm the author of an opensource rich text editor [wangEditor](https://www.wangeditor.com/) which is famous in the Chinese front-end community. [GitHub repo](https://github.com/wangeditor-team/wangEditor) got more 17k+ stars.
 
-I'm an expericenced teacher on [imooc.com](https://www.imooc.com/) (a Chinese famous tech teaching website), and I made many front-end tutorials involved JS React Vue Nodejs etc. and I'm known by many Chinese front-end developers by the name "Teacher Shuangyue".
+I'm an experienced teacher on [imooc.com](https://www.imooc.com/) (a famous Chinese tech teaching website), and I made many front-end tutorials involving JS React Vue Nodejs etc. and I'm known by many Chinese front-end developers by the name "Teacher Shuangyue".
 
-I have wroten many tech blogs on [jujin.com](https://juejin.cn/user/1714893868765373) (a Chinese famous tech blog website), I have more than 8k followers and my blogs were viewd more than 1M times.
+I have written many tech blogs on [jujin.com](https://juejin.cn/user/1714893868765373) (a Chinese famous tech blog website), I have more than 8k followers, and my blogs have been viewd more than 1 million times.
 
 Now I dedicate in my personal creative project [HuaShuiAI](https://www.huashuiai.com/), a Node.js full stack AIGC knowledge base plateform, like [Notion](notion.com).
 
@@ -46,4 +46,4 @@ Here are some of my works:
   - [Change anothor way to learn Node.js](https://github.com/wangfupeng1988/node-tutorial)
   - [Web font-end body of knowledge](https://github.com/wangfupeng1988/what-is-fe)
 
-Thx.
+Thank you~
