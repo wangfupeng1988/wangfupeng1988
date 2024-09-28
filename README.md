@@ -23,18 +23,18 @@
 
 Hi there, my name is Wangfupeng. I am a senior front-end developer, PMP, once I worked in [Baidu](https://www.baidu.com/) (Chinese Google) and [Didi](https://www.xiaojukeji.com/) (Chinese Uber), now I'm a freelancer. If you have a job opportunity, [mail me](mailto:wangfupeng1988@163.com).
 
-I'm the author of an opensource rich text editor [wangEditor](https://www.wangeditor.com/) which is famous in the Chinese front-end community. [GitHub repo](https://github.com/wangeditor-team/wangEditor) got more 17k+ stars.
+I'm the author of an opensource rich text editor [wangEditor](https://www.wangeditor.com/en/) which is famous in the Chinese front-end community. [GitHub repo](https://github.com/wangeditor-team/wangEditor) got more 17k+ stars.
 
 I'm an experienced teacher on [imooc.com](https://www.imooc.com/) (a famous Chinese tech teaching website), and I made many front-end tutorials involving JS React Vue Nodejs etc. and I'm known by many Chinese front-end developers by the name "Teacher Shuangyue".
 
 I have written many tech blogs on [jujin.com](https://juejin.cn/user/1714893868765373) (a Chinese famous tech blog website), I have more than 8k followers, and my blogs have been viewd more than 1 million times.
 
-Now I dedicate in my personal creative project [HuaShuiAI](https://www.huashuiai.com/), a Node.js full stack AIGC knowledge base plateform, like [Notion](notion.com).
+Now I dedicate in my personal creative project [HuaShuiAI](https://www.huashuiai.com/en/), a Node.js full stack AIGC knowledge base plateform, like [Notion](notion.com).
 
 Here are some of my works:
 
-- Online Project: [HuaShuiAI](https://www.huashuiai.com/), a Node.js full stack AIGC knowledge base plateform, like [Notion](notion.com)
-- Open source Project: [wangEditor](https://www.wangeditor.com/), a rich text editor.
+- Online Project: [HuaShuiAI](https://www.huashuiai.com/en/), a Node.js full stack AIGC knowledge base plateform, like [Notion](notion.com)
+- Open source Project: [wangEditor](https://www.wangeditor.com/en/), a rich text editor.
 - Video tutorials
   - Front-end interview questions: [Basic](https://coding.imooc.com/class/400.html) + [Frameworks](https://coding.imooc.com/class/419.html) + [The bucket](https://coding.imooc.com/class/613.html)
   - Learn Node.js : [Basic](https://coding.imooc.com/class/320.html) + [Dev a project](https://coding.imooc.com/class/388.html)
