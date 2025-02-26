@@ -21,7 +21,7 @@
 
 ---
 
-Hi there, my name is WangFupeng ([linkedin](https://www.linkedin.com/in/fupeng-wang/)). I am a senior front-end developer, PMP, once I worked in [Baidu](https://www.baidu.com/) (Chinese Google) and [Didi](https://www.xiaojukeji.com/) (Chinese Uber), now I'm a freelancer. If you have a job opportunity, [mail me](mailto:wangfupeng1988@163.com).
+Hi there, my name is WangFupeng ([linkedin](https://www.linkedin.com/in/fupeng-wang/)). I am a senior front-end developer, PMP, once I worked in [Baidu](https://www.baidu.com/) (Chinese Google) and [Didi](https://www.xiaojukeji.com/) (Chinese Uber), now I'm a freelancer.
 
 I'm the author of an opensource rich text editor [wangEditor](https://www.wangeditor.com/en/) which is famous in the Chinese front-end community. [GitHub repo](https://github.com/wangeditor-team/wangEditor) got more 17k+ stars.
 
